@@ -4,5 +4,5 @@ A simple chat server and client. Based on the [Rust book](https://doc.rust-lang.
 ## How to run
 
 * Clone repo
-* Start server with `cargo run --bin server'
+* Start server with `cargo run --bin server`
 * Start client (in a diffrent terminal) with `cargo run --bin client`. (Each client requires a new terminal)
